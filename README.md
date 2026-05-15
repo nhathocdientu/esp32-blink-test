@@ -52,4 +52,4 @@ idf.py monitor
 ```
 
 ## Demo
-(Add image or video here)
+![ESP32 Blink Demo](main/images/demo_blink_esp32.jpg)
