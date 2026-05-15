@@ -1,0 +1,2 @@
+source D:/Espressif/frameworks/esp-idf-v5.5.3/examples/get-started/blink_test/build/bootloader/gdbinit/symbols
+source D:/Espressif/frameworks/esp-idf-v5.5.3/examples/get-started/blink_test/build/bootloader/gdbinit/connect
